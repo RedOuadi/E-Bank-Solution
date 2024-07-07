@@ -67,5 +67,5 @@ Include a use case diagram illustrating the various interactions between users a
 Provide a class diagram depicting the structure and relationships of classes in your backend application.
 
 ### Sequence Diagram
-![Sequence Diagram]![image](https://github.com/oussamaaatifi1/Bank_System_Back-End/assets/72675402/9069469a-8073-49fb-a301-86c2313805e6)
+![Sequence Diagram]![image](https://github.com/RedOuadi/E-Bank-Solution/blob/main/Conception/Diagramme%20de%20Sequence.png)
 
